@@ -6,10 +6,17 @@ body {
 	margin-left: 20%;
 	margin-right: 20%;
 	padding: 10px 10px 10px 10px:
-	font-family: sans-serf;
+	font-familly: Verdana, Helvetica, Arial, sans-serif;
 	COLOR: #666666	
 }
-/* font size*/ 
 
+#CS106A{
+	font-style:italic;
+}
+
+#MayaQuote
+{
+
+}
 
 	
