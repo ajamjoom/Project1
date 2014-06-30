@@ -1,8 +1,15 @@
 h1 {
-	text-align: center
-}			
+	text-align: center;
+	font-size:150%;
+}	
+h2{
+	font-size:130%;
+}
+
 	
 body {
+	font-size:small;
+	line-height:1.6em;
 	margin-left: 20%;
 	margin-right: 20%;
 	font-family: Verdana, Helvetica, Arial, sans-serif;
@@ -16,7 +23,22 @@ body {
 
 #MayaQuote
 {
-
+text-align: center;
+border-color: black;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+background-color: #a7cece;
+padding: 25px;
+margin: 30px;
+color: #444444;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-style:italic;
 }
-
+p#footer{
+font-size: 50%;
+text-align: center;
+line-height: normal;
+margin-top: 30px;
+}
 	
